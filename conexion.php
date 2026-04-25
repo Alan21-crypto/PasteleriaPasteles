@@ -1,5 +1,5 @@
 <?php
-    include("conexion.php");
+    include("conexion.php1");
     $_nombre = "";
     $_producto = "";
     $_cantidad = "";
