@@ -1,6 +1,5 @@
 <?php
     include("conexion.php");
-    include("index.php");
     $_nombre = "";
     $_producto = "";
     $_cantidad = "";
