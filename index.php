@@ -85,7 +85,7 @@
     <section id="pedidos"> 
         <h2>Haz tu pedido</h2> 
  
-        <form action="pasteles_codigo.php" method="POST"> 
+        <form action="conexion.php" method="POST"> 
             <label>Nombre:</label><br> 
             <input type="text" name="nombre" required><br> 
  
